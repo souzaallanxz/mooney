@@ -64,7 +64,7 @@ pytest-randomly = "^3.12.0"
 pytest-reverse = "^1.5.0"
 pymdown-extensions = "^10.0.1"
 pygments = "^2.15.1"
-mkdocs-swagger-ui-tag = "^0.6.1"
+mkdocs-swagger-ui-tag = "^0.6.2"
 
 [build-system]
 requires = ["poetry-core"]
